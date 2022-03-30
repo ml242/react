@@ -50,6 +50,7 @@ const possibleStandardNames = {
   datetime: 'dateTime',
   default: 'default',
   defaultchecked: 'defaultChecked',
+  defaultMuted: 'defaultMuted',
   defaultvalue: 'defaultValue',
   defer: 'defer',
   dir: 'dir',
