@@ -424,6 +424,12 @@ const attributes = [
     read: getAttribute('defaultchecked'),
   },
   {name: 'defaultChecked', tagName: 'input'},
+  {
+    name: 'defaultmuted',
+    tagName: 'video',
+    read: getAttribute('defaultmuted'),
+  },
+  {name: 'defaultMuted', tagName: 'video'},
   {name: 'defaultValue', tagName: 'input'},
   {name: 'defaultValuE', tagName: 'input', read: getAttribute('defaultValuE')},
   {name: 'defer', tagName: 'script'},
