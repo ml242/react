@@ -332,6 +332,7 @@ reservedProps.forEach(name => {
   'autoPlay',
   'controls',
   'default',
+  'defaultMuted',
   'defer',
   'disabled',
   'disablePictureInPicture',
